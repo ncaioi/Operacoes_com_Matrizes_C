@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1605296303 source:c:\users\caioi\onedrive\햞ea de trabalho\caio\kio\trab1_ed1\exercicio_3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"MAT.h"
+
+1605198444 c:\users\caioi\onedrive\햞ea de trabalho\caio\kio\trab1_ed1\exercicio_3\matriz.h
+
+1604985552 source:c:\users\caioi\onedrive\햞ea de trabalho\caio\kio\trab1_ed1\exercicio_3\matriz.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<time.h>
+	"Matriz.h"
+
+1605296303 c:\users\caioi\onedrive\햞ea de trabalho\caio\kio\trab1_ed1\exercicio_3\mat.h
+
+1605296175 source:c:\users\caioi\onedrive\햞ea de trabalho\caio\kio\trab1_ed1\exercicio_3\mat.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<time.h>
+	"MAT.h"
+
+1605296304 source:c:\users\usuario\desktop\caio\python\trab1_ed1\exercicio_3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"MAT.h"
+
+1605296304 c:\users\usuario\desktop\caio\python\trab1_ed1\exercicio_3\mat.h
+
+1605296176 source:c:\users\usuario\desktop\caio\python\trab1_ed1\exercicio_3\mat.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<time.h>
+	"MAT.h"
+
